@@ -1,5 +1,5 @@
 # Maddie Gee - Multi-Paradigm Programming CS21003 
-C++ Assignment Report
+## C++ Assignment Report
  
 <img src=simpleClassDiagram.png>
 
@@ -42,7 +42,6 @@ Objects are used in order to establish a blueprint for each class as properties 
 
 Input validation is also easier to implement with modular programming concepts as code can be reused and inputs do not need to be revalidated. 
 
- 
 ### Testing
 All tests work as expected
 
